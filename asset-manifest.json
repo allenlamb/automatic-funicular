@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/automatic-funicular/static/css/main.d66410e9.css",
-    "main.js": "/automatic-funicular/static/js/main.b4f2332d.js",
+    "main.js": "/automatic-funicular/static/js/main.69a38e86.js",
     "static/js/453.56f46472.chunk.js": "/automatic-funicular/static/js/453.56f46472.chunk.js",
     "index.html": "/automatic-funicular/index.html",
     "main.d66410e9.css.map": "/automatic-funicular/static/css/main.d66410e9.css.map",
-    "main.b4f2332d.js.map": "/automatic-funicular/static/js/main.b4f2332d.js.map",
+    "main.69a38e86.js.map": "/automatic-funicular/static/js/main.69a38e86.js.map",
     "453.56f46472.chunk.js.map": "/automatic-funicular/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d66410e9.css",
-    "static/js/main.b4f2332d.js"
+    "static/js/main.69a38e86.js"
   ]
 }
